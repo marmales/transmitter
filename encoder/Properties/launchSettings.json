@@ -1,0 +1,11 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "encoder": {
+      "commandLineArgs": "--thumbprint C0C54A101E4741B86405605619B460963D6E1756",
+      "commandName": "Project",
+      "environmentVariables": {
+      }
+    }
+  }
+}
